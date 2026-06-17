@@ -1,0 +1,13 @@
+Section,Day,Start,End,Room,Faculty,Subject
+
+CSE-A,Monday,09:00,10:00,LT-1,DrSharma,DSA
+CSE-A,Monday,10:00,11:00,LT-2,DrVerma,OOP
+CSE-A,Tuesday,09:00,10:00,LAB-1,DrAmit,DBMS
+
+CSE-B,Monday,09:00,10:00,LT-3,DrGupta,AI
+CSE-B,Tuesday,10:00,11:00,LT-2,DrSharma,CN
+
+CSE-C,Wednesday,11:00,12:00,SEM-1,DrAmit,OS
+CSE-C,Thursday,14:00,15:00,LT-1,DrVerma,COA
+
+CSE-D,Friday,09:00,10:00,LAB-1,DrGupta,ML

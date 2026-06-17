@@ -1,0 +1,5 @@
+admin,admin123,ADMIN
+DrSharma,sharma123,FACULTY
+DrVerma,verma123,FACULTY
+DrAmit,amit123,FACULTY
+DrGupta,gupta123,FACULTY
